@@ -1,4 +1,4 @@
 Software Details
 
 Software    version
-SQL Server   2008 Professional Edition
+SQL Server   2010 Community Edition
