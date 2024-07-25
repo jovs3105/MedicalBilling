@@ -1,4 +1,6 @@
 Software Details
 
 Software    version
-SQL Server   2010 Community Edition
+
+SQL Server   2010 Express Edition
+
